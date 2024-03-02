@@ -15,3 +15,21 @@ e.g., ``git config --global user.name <"your user name">
 8. notepad <file>: to open a file on Notepad.
 9. git status: to check the changes staged for commit.
 10. git log: to display commit history of a repositry.
+
+This is the first file I created while learning Git!
+
+So far, I've learned various Git commands, including:
+
+1. I have learned how to install git
+2. How to configure my credentials.
+e.g., ``git config --global user.name <"your user name">
+      ``git config --global user.email <your email address>
+      ``git config --list: to check the credentials.
+3. pwd
+4. mkdir
+5. ls
+6. cd
+7. touch
+8. notepad <file>: to open a file on Notepad.
+9. git status: to check the changes staged for commit.
+10. git log: to display commit history of a repositry.
