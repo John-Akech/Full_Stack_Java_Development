@@ -1,6 +1,6 @@
 This is the first file I created while learning Git!
 
-So far, I've learned various Git commands, including:
+So far, I have learned various Git commands, including:
 
 1. I have learned how to install git
 2. How to configure my credentials.
@@ -18,7 +18,7 @@ e.g., ``git config --global user.name <"your user name">
 
 This is the first file I created while learning Git!
 
-So far, I've learned various Git commands, including:
+So far, I have learned various Git commands, including:
 
 1. I have learned how to install git
 2. How to configure my credentials.
