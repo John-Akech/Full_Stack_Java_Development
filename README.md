@@ -1,7 +1,7 @@
 - 👋 Hey there, I'm @John-Akech!
 - 👀 Coding is my passion.
 - 🌱 Currently delving into Full Stack Java development.
-- 💞️ Seeking collaborations on the Full_Stack_Java_Development projects.
+- 💞️ Seeking more opportunities to learn about the Full_Stack_Java_Development.
 - 📫 You can reach me at +250792403049/johnakechofficial@gmail.com.
 - 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: I'm deeply passionate about coding!
